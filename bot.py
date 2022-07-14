@@ -14,11 +14,7 @@ ADMINS = []
 for usr in environ.get("ADMINS").split():
     ADMINS.append(int(usr))
 
-START_MSG = "𝑯𝒆𝒚 {}👋
-
-𝑰 𝒂𝒎 "Mɪᴀ 🦋". 𝑰 𝒄𝒂𝒏 𝒅𝒆𝒍𝒆𝒕𝒆 𝒎𝒆𝒔𝒔𝒂𝒈𝒆 𝒊𝒏 𝒂 𝒈𝒓𝒐𝒖𝒑 𝒂𝒇𝒕𝒆𝒓 𝒔𝒑𝒆𝒄𝒊𝒇𝒊𝒄 𝒕𝒊𝒎𝒆.
-
-𝑬𝒙𝒄𝒍𝒖𝒔𝒊𝒗𝒆𝒍𝒚 𝒎𝒂𝒅𝒆 𝒇𝒐𝒓 𝐌𝐎𝐕𝐈𝐄𝐒𝐇𝐔𝐁"
+START_MSG = "Hey {}👋\nI am private bot of @MOVIESHUB_WA for deleting messages in a group after specific time."
 
 
 User = Client(name="user-account",

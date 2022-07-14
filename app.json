@@ -7,7 +7,7 @@
     "bot"
   ],
   "repository": "https://github.com/TG-V4MP1R3/Auto-Delete-Bot",
-  "logo": "https://telegra.ph/file/8cd549b2beef98e83349e.jpg",
+  "logo": "https://telegra.ph/file/bce85d4f9bc9bee23b604.jpg",
   "env": {
     "BOT_TOKEN": {
       "description": "Get it from @Botfather",
